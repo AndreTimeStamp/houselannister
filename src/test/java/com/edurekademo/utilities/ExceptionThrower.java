@@ -43,4 +43,5 @@ public class ExceptionThrower {
                         throw new Exception("TEST MESSAGE"); 
                 }
         }
+        
 }
